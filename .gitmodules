@@ -4,9 +4,6 @@
 [submodule "twitch_stitch"]
 	path = twitch_stitch
 	url = https://github.com/ThisIsMyNick/Stitch
-[submodule "chess"]
-	path = chess
-	url = https://github.com/lilharry/bhess
 [submodule "tetris"]
 	path = tetris
 	url = https://github.com/TaoLinBoys/TetriC
