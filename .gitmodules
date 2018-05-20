@@ -1,3 +1,24 @@
 [submodule "rubiks_cube"]
 	path = rubiks_cube
 	url = https://github.com/taolinboys/rubbishcube
+[submodule "twitch_stitch"]
+	path = twitch_stitch
+	url = https://github.com/ThisIsMyNick/Stitch
+[submodule "chess"]
+	path = chess
+	url = https://github.com/lilharry/bhess
+[submodule "tetris"]
+	path = tetris
+	url = https://github.com/TaoLinBoys/TetriC
+[submodule "craigslist_clone"]
+	path = craigslist_clone
+	url = https://github.com/lilharry/DollaDollaBill
+[submodule "skype_clone"]
+	path = skype_clone
+	url = https://github.com/janetzhang321/italian-herbs-and-cheeses
+[submodule "rctycoon_clone"]
+	path = rctycoon_clone
+	url = https://github.com/kelly3649/finalProject
+[submodule "project_euler"]
+	path = project_euler
+	url = https://github.com/lilharry/project_euler
