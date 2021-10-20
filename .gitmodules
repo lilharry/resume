@@ -19,3 +19,18 @@
 [submodule "project_euler"]
 	path = project_euler
 	url = https://github.com/lilharry/project_euler
+[submodule "lilharry.github.io"]
+	path = lilharry.github.io
+	url = https://github.com/lilharry/lilharry.github.io
+[submodule "flappy"]
+	path = flappy
+	url = https://github.com/lilharry/flappy
+[submodule "Cardistry"]
+	path = Cardistry
+	url = https://github.com/lilharry/Cardistry
+[submodule "competition-prep"]
+	path = competition-prep
+	url = https://github.com/lilharry/competition-prep
+[submodule "spaceInvaders"]
+	path = spaceInvaders
+	url = https://github.com/lilharry/spaceInvaders
